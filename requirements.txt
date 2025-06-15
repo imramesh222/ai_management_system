@@ -1,0 +1,20 @@
+Django~=5.2.3
+djangorestframework~=3.15.0
+djangorestframework-simplejwt~=5.2.0
+psycopg2-binary~=2.9.6
+django-cors-headers~=3.18.0
+django-filter~=24.1.0
+# For development purposes
+django-debug-toolbar~=5.0.0
+# For testing purposes
+pytest~=7.4.0
+pytest-django~=4.6.0
+# For documentation purposes
+sphinx~=7.4.0
+sphinx-rtd-theme~=1.2.0
+# For deployment purposes
+gunicorn~=21.2.0
+# For static file management
+whitenoise~=6.4.0
+# For environment variable management
+python-dotenv~=1.0.0
